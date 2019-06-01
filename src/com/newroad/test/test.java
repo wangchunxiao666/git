@@ -10,6 +10,8 @@ public class test {
 			
 			System.out.println("在git工作空间修改了文件");
 			
+			System.out.println("hah");
+			
 	
 		
 	}
